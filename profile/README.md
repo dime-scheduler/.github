@@ -15,4 +15,6 @@ Check out the following links for more information about Dime.Scheduler:
 - [Media Kit](https://mediakit.dimescheduler.com)
 - [Documentation](https://docs.dimescheduler.com)
 - [Brochure](https://www.dimescheduler.com/assets/brochure.pdf)
-- [LinkedIn](https://www.linkedin.com/company/dimenics)
+- [LinkedIn](https://www.linkedin.com/company/dimesoftware)
+
+Dime.Scheduler, a [Dime Software](https://github.com/dimesoftware) solution.
