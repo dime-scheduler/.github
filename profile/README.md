@@ -1,4 +1,6 @@
-<img src="https://cdn.dime-software.com/dime-scheduler/Dime.Scheduler-Black.svg" height="75px" />
+<div class="center">
+<img src="https://cdn.dimescheduler.com/dime-scheduler/v2/logo.svg" height="75px" />
+</div>
 
 # Stop puzzling and start planning with Dime.Scheduler
 
